@@ -67,7 +67,7 @@ Currently leading IT, Data &amp; AI at **PT MAP Active Adiperkasa Tbk** (MAP Act
 | Faster reporting | **50%+** through Direct Lake medallion architecture |
 | Uptime SLA | **99.9%+** for mission-critical reporting |
 | Users governed | **500+** across 7+ countries, 500+ brands |
-| Students mentored | **200+ per year** at Universitas Nusa Mandiri |
+| Students supervised | **20+** at Universitas Nusa Mandiri |
 
 ### Experience
 
@@ -75,7 +75,6 @@ Currently leading IT, Data &amp; AI at **PT MAP Active Adiperkasa Tbk** (MAP Act
 - **IT Data Associates Manager** · PT MAP Active · Jan 2024 — Feb 2026
 - **Tenaga Ahli Sistem Kemaslahatan** · BPKH (Welfare System Expert) · Jan 2025 — Nov 2025
 - **Assistant Tenaga Ahli Sistem Produksi** · Badan Informasi Geospasial (BIG) · Jul 2024 — Nov 2024
-- **Chief Operating Officer** · Akademi Digital Indonesia (ADINESIA) · Jan 2023 — Present
 - **Lecturer in Data Science** · Universitas Nusa Mandiri · Aug 2020 — Jan 2026
 - **IT Associate Manager — Infrastructure** · PT Mitra Adiperkasa Tbk (MAP Group) · Jun 2014 — Dec 2023
 
